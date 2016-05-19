@@ -60,7 +60,8 @@ class LineAPI(object):
         After login, make `client` and `client_in` instance
         to communicate with LINE server
         """
-        raise Exception("Code is removed because of the request of LINE corporation")
+        pass
+        #raise Exception("Code is removed because of the request of LINE corporation")
 
     def updateAuthToken(self):
         """
