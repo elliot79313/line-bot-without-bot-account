@@ -10,7 +10,9 @@ Update
 
 **2016.05.19**
 
- add *test.py* to send a sample message to somebody
+ add *test.py*.
+
+ *test.py* allows a LINE user to send a sample message to someone.
 
 
 **2015.05.28**
